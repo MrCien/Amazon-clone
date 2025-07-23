@@ -2,40 +2,40 @@
 This is a full-stack Amazon-inspired eCommerce web app built using Next.js, Redux, Tailwind CSS, and TypeScript. The project was created and maintained by Shivam Namdeo as part of a hands-on learning and development journey.
 
 🚀 Features
-Modern UI with Tailwind CSS
+➢Modern UI with Tailwind CSS
 
-Product listing, search, and filtering
+➢Product listing, search, and filtering
 
-Add to cart and favorite functionality
+➢Add to cart and favorite functionality
 
-Checkout with address input and order summary
+➢Checkout with address input and order summary
 
-Cash on Delivery order placement
+➢Cash on Delivery order placement
 
-Redux state management with persistence
+➢Redux state management with persistence
 
-Responsive and mobile-friendly design
+➢Responsive and mobile-friendly design
 
 🛠️ Tech Stack
-Next.js – Framework for React
+➢Next.js – Framework for React
 
-TypeScript – Type safety
+➢TypeScript – Type safety
 
-Redux Toolkit + Persist – State management
+➢Redux Toolkit + Persist – State management
 
-Tailwind CSS – Styling
+➢Tailwind CSS – Styling
 
-NextAuth.js – Authentication support
+➢NextAuth.js – Authentication support
 
-Vercel – Deployment (optional)
+➢Vercel – Deployment (optional)
 
 📦 Getting Started
 To run the development server:
 
 npm run dev
-# or
+or
 yarn dev
-# or
+or
 pnpm dev
 
 Then, open http://localhost:3000 in your browser to view the project.
