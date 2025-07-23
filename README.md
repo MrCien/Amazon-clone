@@ -67,12 +67,12 @@ You can customize them in the pages/api/ folder.
 📚 Learn More
 Here are some useful links to explore Next.js further:
 
-Next.js Documentation
-
-Next.js GitHub
-
-Learn Next.js Interactive
-
+[Next.js Documentation
+]([url](https://nextjs.org/docs))
+[Next.js GitHub
+]([url](https://github.com/vercel/next.js/))
+[Learn Next.js Interactive
+]([url](https://nextjs.org/learn))
 📤 Deployment
 You can deploy this project easily using [Vercel]([url](https://vercel.com/)), the creators of Next.js.
 
