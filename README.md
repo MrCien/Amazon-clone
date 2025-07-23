@@ -32,14 +32,12 @@ Vercel – Deployment (optional)
 📦 Getting Started
 To run the development server:
 
-bash
-Copy
-Edit
 npm run dev
 # or
 yarn dev
 # or
 pnpm dev
+
 Then, open http://localhost:3000 in your browser to view the project.
 
 📂 Project Structure
@@ -58,12 +56,12 @@ type/ – TypeScript interfaces
 🌐 API Routes
 Next.js API routes are accessible via:
 
-bash
-Copy
-Edit
 http://localhost:3000/api/checkout
+
 http://localhost:3000/api/login
+
 http://localhost:3000/api/register
+
 You can customize them in the pages/api/ folder.
 
 📚 Learn More
@@ -76,9 +74,8 @@ Next.js GitHub
 Learn Next.js Interactive
 
 📤 Deployment
-You can deploy this project easily using Vercel, the creators of Next.js.
+You can deploy this project easily using [Vercel]([url](https://vercel.com/)), the creators of Next.js.
 
-Click here to deploy
 
 🙌 Made with ❤️ by Shivam Namdeo
 Let’s build the future of web together!
